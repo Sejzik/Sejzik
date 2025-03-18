@@ -3,19 +3,13 @@
 
 - 🔭 I’m currently working on [Fake Mobywatel (fake polish id app)](https://github.com/Sejzik/Fake-mObywatel)
 
-- 🌱 I’m currently learning **Frameworks**
-
 - 👯 I’m looking to collaborate on [Fake Mobywatel (fake polish id app)](https://github.com/Sejzik/Fake-mObywatel)
 
 - 🤝 I’m looking for help with [Fake Mobywatel (fake polish id app)](https://github.com/Sejzik/Fake-mObywatel)
 
-- 👨‍💻 All of my projects are available at [https://bio.saze.lol](https://dev.saze.lol)
+- 👨‍💻 All of my projects are available at [https://dev.saze.lol](https://dev.saze.lol)
 
-- 💬 Ask me about **Py, Js, php**
-
-- 📫 How to reach me **me@saze.lol**
-
-- ⚡ Fun fact **NWM**
+- 📫 How to reach me **me@saze.lol** / **[DISCORD LINK](https://discord.com/users/468006287976693760)**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
