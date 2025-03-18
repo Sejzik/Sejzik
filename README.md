@@ -9,7 +9,7 @@
 
 - 👨‍💻 All of my projects are available at [https://dev.saze.lol](https://dev.saze.lol)
 
-- 📫 How to reach me **me@saze.lol** / **[DISCORD LINK](https://discord.com/users/468006287976693760)**
+- 📫 How to reach me **me@saze.lol** / **[discord user link](https://discord.com/users/1177903961014030438)**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
