@@ -9,7 +9,7 @@
 
 - 🤝 I’m looking for help with [Fake Mobywatel (fake polish id app)](https://github.com/Sejzik/Fake-mObywatel)
 
-- 👨‍💻 All of my projects are available at [https://bio.saze.lol](https://bio.saze.lol)
+- 👨‍💻 All of my projects are available at [https://bio.saze.lol](https://dev.saze.lol)
 
 - 💬 Ask me about **Py, Js, php**
 
